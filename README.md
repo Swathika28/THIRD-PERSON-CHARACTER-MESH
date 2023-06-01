@@ -73,7 +73,8 @@
 ## OUTPUT:
 
 ### ANIMATIONS:
-![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/b158a3fe-3240-4924-b60d-dad143bcba8e)
+![image](https://github.com/Swathika28/THIRD-PERSON-CHARACTER-MESH/assets/95024854/a8ce39fb-2f3e-4fbb-8871-132e94660104)
+
 
 ### STATE MACHINES:
 ![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/c0aef584-f0d0-412e-8146-39f81157601d)
@@ -110,7 +111,8 @@
 ![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/743d99c0-7034-450b-bced-75fc9bc60211)
 
 ### ANIM MONTAGE:
-![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/a6f7ef63-ec7c-4204-8ab6-ba9d33d9e705)
+![image](https://github.com/Swathika28/THIRD-PERSON-CHARACTER-MESH/assets/95024854/4bc21ca0-5a3e-4323-a745-7cf39554c463)
+
 
 ### THIRD PERSON BLUEPRINT:
 ![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/3c670727-d315-422f-82db-0158cbc04960)
